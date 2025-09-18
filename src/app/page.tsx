@@ -39,7 +39,7 @@ export default function LandingPage() {
                   {/* Video Description */}
                   <div className="mt-4 sm:mt-6 text-center">
                     <p className="text-sm sm:text-base text-gray-300 max-w-2xl mx-auto">
-                      Neste vídeo exclusivo, você vai descobrir os <span className="text-[#D4AF37] font-semibold">3 segredos</span> 
+                      Neste vídeo exclusivo, você vai descobrir os <span className="text-[#D4AF37] font-semibold">3 segredos </span> 
                       que as profissionais de sucesso usam para criar extensões com mesclagem perfeita
                     </p>
                   </div>
